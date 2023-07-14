@@ -70,4 +70,4 @@ Live Project url: [reactJs-community-blog](https://react-js-community-blog.verce
 
 ## Feedback
 
-Feel free to send me feedback on [Twitter](https://twitter.com/MahmudSajib18) or [file an issue](https://github.com/mahmud-sajib/ReactJs-Online-Store/issues/new). If you wish to contribute, please feel free to do so!
+Feel free to [file an issue](https://github.com/mahmud-sajib/ReactJs-Online-Store/issues/new). If you wish to contribute, please feel free to do so!
